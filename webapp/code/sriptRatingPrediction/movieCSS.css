@@ -1,0 +1,39 @@
+﻿.stApp {
+ 
+}
+
+
+
+.stApp {
+    background: rgb(194, 136, 43, 0.2);
+}
+
+.block-container {
+    background: rgb(23, 57, 61);
+}
+
+/* Button color */
+.css-6kekos {
+    background: rgb(194, 136, 43, 0.8);
+    color: white
+}
+
+.stButton{
+    text-align: right
+}
+
+.streamlit-expander {
+    background: white
+}
+
+/* Text Area Background*/
+.streamlit-expanderHeader {
+    background: rgb(255, 241, 208);
+    background-color: rgb(255, 241, 208);
+}
+
+/* Table Header Color */
+th {
+    background-color: rgb(194, 136, 43);
+    color: white!important;
+}
