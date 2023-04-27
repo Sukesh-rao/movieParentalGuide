@@ -16,17 +16,6 @@ IDE: Jupyter Notebook
 
 Packages: Pandas, Numpy, NLTK, Beautifulsoup, Wordcloud
 
-### Script Extraction from Web (Code Snip):
-
-![](RackMultipart20230427-1-uzlkk0_html_54daf6d063afd676.png)
-
-### Script Pre-Processing (Sample Code Snip):
-
-![](RackMultipart20230427-1-uzlkk0_html_4736fbdcaead9fc7.png)
-
-### Data Exploration (Sample Code Snip – For word cloud):
-
-![](RackMultipart20230427-1-uzlkk0_html_1be397fd590a0652.png)
 
 ## Model Development
 
